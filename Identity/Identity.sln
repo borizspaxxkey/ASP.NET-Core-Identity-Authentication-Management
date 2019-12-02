@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth20", "Auth20\Auth20.csproj", "{2D3DDD4D-C539-43EB-B195-F8A6927D44B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth22", "Auth22\Auth22.csproj", "{A2D4A0E9-05E7-4F16-81E2-6A3D71BAE339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3DDD4D-C539-43EB-B195-F8A6927D44B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3DDD4D-C539-43EB-B195-F8A6927D44B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3DDD4D-C539-43EB-B195-F8A6927D44B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3DDD4D-C539-43EB-B195-F8A6927D44B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2D4A0E9-05E7-4F16-81E2-6A3D71BAE339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D4A0E9-05E7-4F16-81E2-6A3D71BAE339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D4A0E9-05E7-4F16-81E2-6A3D71BAE339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D4A0E9-05E7-4F16-81E2-6A3D71BAE339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6B15286-753C-4FDF-8EC2-5D687C156E77}
+	EndGlobalSection
+EndGlobal
